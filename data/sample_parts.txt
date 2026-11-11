@@ -1,0 +1,5 @@
+101,Oil Filter,25,350.00,5
+102,Brake Pads,12,1200.00,4
+103,Spark Plug,40,150.00,10
+104,Engine Oil 4L,8,2100.00,3
+105,Air Filter,3,450.00,5
